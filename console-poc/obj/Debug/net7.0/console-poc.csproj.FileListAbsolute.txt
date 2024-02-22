@@ -1,0 +1,15 @@
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/bin/Debug/net7.0/console-poc
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/bin/Debug/net7.0/console-poc.deps.json
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/bin/Debug/net7.0/console-poc.runtimeconfig.json
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/bin/Debug/net7.0/console-poc.dll
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/bin/Debug/net7.0/console-poc.pdb
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/console-poc.csproj.AssemblyReference.cache
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/console-poc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/console-poc.AssemblyInfoInputs.cache
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/console-poc.AssemblyInfo.cs
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/console-poc.csproj.CoreCompileInputs.cache
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/console-poc.dll
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/refint/console-poc.dll
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/console-poc.pdb
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/console-poc.genruntimeconfig.cache
+/Users/rajeshrana/Documents/Research_Work/dotnet/console-poc/obj/Debug/net7.0/ref/console-poc.dll

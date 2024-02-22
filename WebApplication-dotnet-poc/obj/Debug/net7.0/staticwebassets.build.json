@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7C+SsHDmTkB+g0qyqougE7dUGP4cvIMLlx2sEYJpgKc=",
+  "Source": "WebApplication-dotnet-poc",
+  "BasePath": "_content/WebApplication-dotnet-poc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

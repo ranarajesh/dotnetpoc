@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGaUn+xYE2bc+ep/1Jdq9Exbobi6QHVBb0J1R+o5OWFlrSSpKSBZmTV8EyRGX6Kr+3edmARPvsKpK7SBrIx+IA==",
+  "success": true,
+  "projectFilePath": "/Users/rajeshrana/Documents/Research_Work/dotnet/NotesMinimalAPI/NotesMinimalAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/rajeshrana/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/Users/rajeshrana/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/rajeshrana/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/rajeshrana/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/rajeshrana/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/rajeshrana/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/rajeshrana/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
