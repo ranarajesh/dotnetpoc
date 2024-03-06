@@ -1,4 +1,5 @@
-﻿namespace console_poc;
+﻿namespace console_poc.SolidPrinciples.SRP.Solution;
+
 public class BankService
 {
     public double WithDraw(){
